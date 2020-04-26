@@ -16,4 +16,5 @@
          </padding></TextField>
       <Button fx:id="sendButton" layoutX="288.0" layoutY="570.0" mnemonicParsing="false" onAction="#sendMessage" text="отправить" />
    </children>
+
 </Pane>
